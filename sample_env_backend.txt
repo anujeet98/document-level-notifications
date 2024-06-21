@@ -1,0 +1,4 @@
+PORT=8000
+DB_CONN=mongodb+srv://********************
+JWT_TOKEN_SECRET=***********************
+CRYPTR_SECRET=*********************
